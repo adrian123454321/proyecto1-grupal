@@ -1,4 +1,4 @@
 def prob_8 (a):
-for i in range (0,altura):
+for i in range (0,a):
 
-return (" "*(altura-i-1),"* "*(i+1))
+return (" "*(a-i-1),"* "*(i+1))
